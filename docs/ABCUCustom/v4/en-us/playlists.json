@@ -1,42 +1,36 @@
 [
   {
-    "Id": "55f5e633-845f-4022-86aa-476af175a9ab",
-    "Title": "Introduction to SharePoint",
-    "Image": "images/playlists/Intro_SharePoint.png",
-    "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
-    "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
-    "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Modern SharePoint Editing Experience",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
     "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-    "Description": "Ways to work with SharePoint",
-    "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "d97dd190-397a-4037-86e8-9cb4d9beb358",
-      "ad905a16-d54d-4fd0-be6a-d108165735d7",
-      "06883190-b2a3-4e66-8e71-b8e16915460c",
-      "2f36ab3e-0bf1-4d60-b9aa-3584e2271219",
-      "809ef3fb-4201-446b-8e0d-b239bac5db52",
-      "06ae6bce-eb18-4cf7-8f80-5d94b69053ad"
+      "28dad67b-adb8-4df5-822b-677d81968eda"
     ]
   },
   {
-    "Id": "2d57566c-3eb2-4e46-9f0c-7727e075902c",
-    "Title": "Learn about SharePoint site types",
-    "Image": "images/playlists/SharePoint_Types.png",
-    "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
-    "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
-    "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+    "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
+    "Title": "Getting started with Microsoft Forms",
+    "Image": "images/playlists/forms_quick_startx.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
     "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-    "Description": "Communicate with your immediate team or a broad audience",
-    "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
+    "Source": "Microsoft",
+    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "651cff1e-a1c8-4f9b-b026-9883141ce685",
-      "cd4764b9-6005-4eb3-b414-8376983f3792"
+      "39a23830-452d-474c-ae1f-47a6ebefa21a"
     ]
   }
 ]

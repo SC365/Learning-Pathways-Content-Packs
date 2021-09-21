@@ -1,24 +1,24 @@
 [
   {
-    "Id": "d97dd190-397a-4037-86e8-9cb4d9beb358",
-    "Title": "Ways to work with SharePoint",
+    "Id": "28dad67b-adb8-4df5-822b-677d81968eda",
+    "Title": "Add Text and Tables to your modern page",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/get-inspired-with-sharepoint-17688238-3285-47cf-b8c7-cba3764acbdf?embed=true",
-    "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+    "Url": "https://support.office.com/en-gb/client/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
     "SubjectId": "",
-    "Source": "SOC",
-    "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
+    "Source": "Microsoft",
+    "StatusTagId": "ecee7e26-7ac3-41b2-8d06-90843e3ec7a7",
     "StatusNote": ""
   },
   {
-    "Id": "651cff1e-a1c8-4f9b-b026-9883141ce685",
-    "Title": "Video: Create a team or communication site",
+    "Id": "39a23830-452d-474c-ae1f-47a6ebefa21a",
+    "Title": "Create a form",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/video-create-a-team-or-communication-site-551e190a-8fbe-47ae-a88a-798b443c46b1?embed=true&ns=trainingservices&version=3",
-    "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+    "Url": "https://support.office.com/en-us/client/39a23830-452d-474c-ae1f-47a6ebefa21a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
     "SubjectId": "",
-    "Source": "SOC",
-    "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
+    "Source": "Microsoft",
+    "StatusTagId": "",
     "StatusNote": ""
   }
 ]
