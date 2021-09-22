@@ -121,6 +121,61 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "adb24a69-63e5-403b-85fb-4dd021f91ae8",
+      "Name": "Central 1",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "bded9d68-b680-46d1-8fca-6cc3f7c27376",
+          "Name": "Branch Capture",
+          "Image": "images/categories/Plan_Site.png",
+          "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "5b9f8fad-007f-463f-bc63-8764f5c233ec",
+          "Name": "Interac e-Transfer OAS",
+          "Image": "images/categories/Build_Site.png",
+          "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "56293c8b-0e69-45c5-b3d8-556461ecc082",
+          "Name": "MD Authentication Admin",
+          "Image": "images/categories/Launch_Site.png",
+          "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "af78eee0-be98-4cde-abb7-d844ac6b434d",
+          "Name": "PaymentStream",
+          "Image": "images/categories/Build_Site.png",
+          "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "341b3e16-fdfc-4827-b61b-a5db0f2256df",
+          "Name": "FAS",
+          "Image": "images/categories/Launch_Site.png",
+          "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
