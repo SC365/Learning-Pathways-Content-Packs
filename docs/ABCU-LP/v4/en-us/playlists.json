@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "dbc52066-6a6d-4dad-9cc4-a3ffd9e1a74c",
+    "Title": "Blank Playlist",
+    "Image": "images/playlists/",
+    "LevelId": "",
+    "AudienceId": "",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ABCU",
+    "CatId": "",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+    ]
+  }
+]

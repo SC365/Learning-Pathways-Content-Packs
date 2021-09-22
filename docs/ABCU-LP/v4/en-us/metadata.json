@@ -1,0 +1,193 @@
+{
+  "Technologies": [
+    {
+      "Id": "24fc2709-c28d-4f0b-a829-b3e88e3cba43",
+      "Name": "Phone System",
+      "Subjects": [
+        {
+          "Id": "05181618-79aa-475c-bee6-5091bca6feb3",
+          "Name": "Ring Central"
+        },
+        {
+          "Id": "5262c56f-c5d5-48e4-9f86-2507326f7f4b",
+          "Name": "Telus"
+        }
+      ]
+    },
+    {
+      "Id": "ebc4d4ec-7624-430e-8712-fb8fd07688ea",
+      "Name": "Wires",
+      "Subjects": [
+        {
+          "Id": "f359a147-9720-4dbd-aba2-14655b4f1876",
+          "Name": "PSTN Calling"
+        },
+        {
+          "Id": "ff9a730c-f974-42af-a30b-06c7ac2d11fa",
+          "Name": "Meetings"
+        }
+      ]
+    },
+    {
+      "Id": "e5748185-c83d-4e99-9d11-d7cd30291b87",
+      "Name": "DNA",
+      "Subjects": []
+    },
+    {
+      "Id": "210a51ce-d8f9-4588-9f27-34d955c426e0",
+      "Name": "AML",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "c9218505-3d26-468c-bd64-3e57f3b29c8a",
+      "Name": "Wires",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "1ae10f9a-f47a-47a4-91e7-c637b83bb594",
+      "Name": "Estates",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "0017c7b4-21b1-4341-9308-30620e81a857",
+      "Name": "AML",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "6eb7f224-ee61-4cb5-b8c2-1b05310f5047",
+      "Name": "CAFT/CUPS",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "0f70563d-d062-4944-a755-9842945115e4",
+      "Name": "Telus Ring Central",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "7a2c012d-b8e1-44a7-94ff-e3f1014d9b52",
+      "Name": "DNA Banking System",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "fb9f0818-e364-4399-864e-d981018751c5",
+      "Name": "Central 1",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "3b8f0120-1b35-49ac-9f51-1c30551c0ea8",
+      "Name": ""
+    },
+    {
+      "Id": "27513aaf-fee5-4f27-b924-e31d865e4092",
+      "Name": "HelpDesk"
+    },
+    {
+      "Id": "4aa421d1-dc55-4b87-aa63-f1845ae49d98",
+      "Name": "Managers"
+    },
+    {
+      "Id": "4e425c61-28fa-4606-afe8-5df5974ec243",
+      "Name": "Member Services"
+    },
+    {
+      "Id": "e43ac038-f77b-4c08-87d1-a623e2b3323e",
+      "Name": "New employees"
+    },
+    {
+      "Id": "823ca3d1-4cea-48af-8112-d8341e1514f5",
+      "Name": "Accounting"
+    },
+    {
+      "Id": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "ABCU",
+    "DNA",
+    "Telus",
+    "PaymentStream"
+  ],
+  "Levels": [
+    {
+      "Id": "4bdd44af-d093-454d-941b-a46812de8870",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "b6eb2e21-6614-4d38-abb1-260cdf83f449",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "bd8f9e7a-0ab7-4289-b330-129fb277f738",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
+      "Name": "New"
+    },
+    {
+      "Id": "5022e586-e10c-41f6-a17e-5bbe5f213452",
+      "Name": "Updated"
+    },
+    {
+      "Id": "1a82c2c0-5773-41e6-a450-776c18621144",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "e5653e35-2e7f-47f6-9257-1b6be501f26e",
+      "Name": "Retired"
+    },
+    {
+      "Id": "51237b71-fc44-4c13-b6d2-67bb054e14e5",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "e55c65a8-29a3-4898-81f8-4c3e62ac3c60"
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}
