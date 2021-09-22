@@ -133,7 +133,7 @@
         {
           "Id": "bded9d68-b680-46d1-8fca-6cc3f7c27376",
           "Name": "Branch Capture",
-          "Image": "images/categories/Plan_Site.png",
+          "Image": "images/categories/bank.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
           "Source": "",
@@ -142,7 +142,7 @@
         {
           "Id": "5b9f8fad-007f-463f-bc63-8764f5c233ec",
           "Name": "Interac e-Transfer OAS",
-          "Image": "images/categories/Build_Site.png",
+          "Image": "images/categories/money-transfer-64.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
           "Source": "",
