@@ -86,16 +86,16 @@
   ],
   "Categories": [
     {
-      "Id": "51fa7728-5658-4a2e-b08e-e004ca0f3b46",
-      "Name": "SharePoint Success Site",
+      "Id": "7a2c012d-b8e1-44a7-94ff-e3f1014d9b52",
+      "Name": "DNA Banking System",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
       "Source": "",
       "SubCategories": [
         {
-          "Id": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-          "Name": "Plan your site",
+          "Id": "1154196f-4eeb-4987-bf63-9f26820ccc70",
+          "Name": "eLMS videos",
           "Image": "images/categories/Plan_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
@@ -103,8 +103,8 @@
           "SubCategories": []
         },
         {
-          "Id": "35d96c14-6269-4cdf-8ac1-2944bb278860",
-          "Name": "Build your site",
+          "Id": "af78eee0-be98-4cde-abb7-d844ac6b434d",
+          "Name": "NDAW",
           "Image": "images/categories/Build_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
@@ -112,8 +112,8 @@
           "SubCategories": []
         },
         {
-          "Id": "6be8e21b-c070-4305-a3d1-996569adcfbe",
-          "Name": "Launch and manage your site",
+          "Id": "341b3e16-fdfc-4827-b61b-a5db0f2256df",
+          "Name": "Training manual",
           "Image": "images/categories/Launch_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
