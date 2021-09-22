@@ -1,7 +1,7 @@
 [
   {
     "Id": "55f5e633-845f-4022-86aa-476af175a9ab",
-    "Title": "Introduction to SharePoint",
+    "Title": "Introduction to eLMS",
     "Image": "images/playlists/Intro_SharePoint.png",
     "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
     "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
@@ -23,7 +23,7 @@
   },
   {
     "Id": "2d57566c-3eb2-4e46-9f0c-7727e075902c",
-    "Title": "Learn about SharePoint site types",
+    "Title": "Creating accounts",
     "Image": "images/playlists/SharePoint_Types.png",
     "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
     "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
@@ -41,7 +41,7 @@
   },
   {
     "Id": "dfa8c1ef-d86e-46b9-a956-a62cca4d659f",
-    "Title": "Learn about SharePoint lists and libraries",
+    "Title": "Multiple Accounts",
     "Image": "images/playlists/Share_Content_Data.png",
     "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
     "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
@@ -59,7 +59,7 @@
   },
   {
     "Id": "89b78762-f538-4850-b4f1-f1e402bc836f",
-    "Title": "Create and customize your site",
+    "Title": "Sample Playist 1 for NDAW",
     "Image": "images/playlists/Create_Customize.png",
     "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
     "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
@@ -67,7 +67,7 @@
     "SubjectId": "",
     "Source": "ABCU",
     "CatId": "af78eee0-be98-4cde-abb7-d844ac6b434d",
-    "Description": "Customize the look, navigation, and resources available to viewers on your site",
+    "Description": "This is a description of this sample NDAW playlist",
     "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
     "StatusNote": "",
     "Assets": [
@@ -81,7 +81,7 @@
   },
   {
     "Id": "b92b3650-9648-4b8c-a429-978d3bdc509d",
-    "Title": "Use web parts to organize content",
+    "Title": "Sample Playlist2 for NDAW",
     "Image": "images/playlists/Upload_Organize.png",
     "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
     "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
@@ -216,26 +216,8 @@
     ]
   },
   {
-    "Id": "e6930b5b-1992-4d23-8b0c-e64a937336cb",
-    "Title": "Learn about permission and access",
-    "Image": "images/playlists/Perms_Access.png",
-    "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
-    "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
-    "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
-    "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "49231c1a-7273-498a-a560-57febcfa3794",
-    "Description": "Introduction to SharePoint permissions, sharing, and accessibility",
-    "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
-    "StatusNote": "",
-    "Assets": [
-      "8e19595a-2499-4e67-8897-db5ae71b182e",
-      "1915a4bf-b7f1-456f-926f-36fd22250382"
-    ]
-  },
-  {
     "Id": "70ca605b-67a7-448b-90d0-6b74768ec78f",
-    "Title": "Use SharePoint lists and libraries",
+    "Title": "NDAW Top to Bottom playlist",
     "Image": "images/playlists/List_Libraries.png",
     "LevelId": "4bdd44af-d093-454d-941b-a46812de8870",
     "AudienceId": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
