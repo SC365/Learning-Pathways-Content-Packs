@@ -42,7 +42,7 @@
   "Categories": [
     {
       "Id": "c9218505-3d26-468c-bd64-3e57f3b29c8a",
-      "Name": "Wires",
+      "Name": "Member Services",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -51,7 +51,7 @@
     },
     {
       "Id": "1ae10f9a-f47a-47a4-91e7-c637b83bb594",
-      "Name": "Estates",
+      "Name": "Retail and Commercial Credit",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -60,7 +60,7 @@
     },
     {
       "Id": "0017c7b4-21b1-4341-9308-30620e81a857",
-      "Name": "AML",
+      "Name": "Wealth and Insurance",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -69,7 +69,7 @@
     },
     {
       "Id": "6eb7f224-ee61-4cb5-b8c2-1b05310f5047",
-      "Name": "CAFT/CUPS",
+      "Name": "Regulatory Compliance and Risk Management",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -78,7 +78,7 @@
     },
     {
       "Id": "0f70563d-d062-4944-a755-9842945115e4",
-      "Name": "Telus Ring Central",
+      "Name": "IT & External Systems",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -87,7 +87,7 @@
     },
     {
       "Id": "7a2c012d-b8e1-44a7-94ff-e3f1014d9b52",
-      "Name": "DNA Banking System",
+      "Name": "Finance",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -96,7 +96,25 @@
     },
     {
       "Id": "fb9f0818-e364-4399-864e-d981018751c5",
-      "Name": "Central 1",
+      "Name": "Human Resources",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "fa11256e-396e-427f-8b00-a2fa918b9245",
+      "Name": "My Board",
+      "Image": "",
+      "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "f83601f2-2bf8-4e3a-96c6-c47cc786f713",
+      "Name": "Committees",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
